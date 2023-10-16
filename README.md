@@ -6,6 +6,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyamaggarwal18&label=Profile%20views&color=8b00ff&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff" alt="Total Repositories" />
+  <img src="https://github.com/priyamaggarwal18/priyamaggarwal18/compare" alt="Total PR"/>
 </p>
 
 <div style="display: flex; justify-content: flex-start; margin-bottom: 20px;">
