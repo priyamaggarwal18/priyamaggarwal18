@@ -1,6 +1,6 @@
 
 <h1 align="center" style="color: white;">Hi there! <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"> I'm Priyam Aggarwal</h1>
-<h3 align="center" style="color: white;">Coding is for the mind 🧠, but graphic designing is for the heart ❤️.</h3>
+<h3 align="center" style="color: white;">Coding is for  mind 🧠, but graphic designing is for the heart ❤️.</h3>
 
 
 <p align="left">
@@ -39,7 +39,6 @@
 
 <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg">
 
-</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamaggarwal18&show_icons=true&locale=en&layout=compact&theme=nord" alt="Top Languages" /></p>
 
