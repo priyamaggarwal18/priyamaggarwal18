@@ -1,6 +1,6 @@
 
-<h1 align="center" style="color: white;">Hi there! <h1>
-<h1 align="center">I'm Priyam Aggarwal<h1>
+<h1 align="center" style="color: white;">Hi there! <br> I'm Priyam Aggarwal 👋<h1>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=priyamaggarwal18&label=Profile%20views&color=8b00ff&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Total%20Repos-10-8b00ff" alt="Total Repositories" />
