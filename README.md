@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on ** Redesigning UI/UX of Ucampus**
+- 🔭 I’m currently working on **Redesigning UI/UX of Ucampus**
 
 
 - 📫 How to reach me: **priyamagggarwal@gmail.com**
