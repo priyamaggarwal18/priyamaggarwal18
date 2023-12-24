@@ -1,6 +1,6 @@
 
 
-# Hi There!👋 I'm Priyam Aggarwal <img align="right" alt="Your Image" width="450px" style="padding-left:5px; padding-bottom:10px" src="spidertocat.png" />
+# Hi There!👋 I'm Priyam Aggarwal <img align="right" alt="Your Image" width="450px"  src="spidertocat.png" />
 **`Digital Designer (Developer/Graphic Designer/Coder)`**
 <br>
 
