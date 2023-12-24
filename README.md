@@ -57,4 +57,13 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 <img src="https://holopin.me/priyamaggarwal18"/>
 </p>
 
+<details>
+<summary><h2>🎨 My Figma Journey :</h2></summary>
+ <p align=left>
+<img width="500px" src="2.png">
+<img width="500px" src="3.png">
+<img width="500px" src="4.png">
+<img width="500px" src="5.png">
+<img width="500px" src="6.png">
+ </p>
 
