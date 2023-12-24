@@ -1,7 +1,7 @@
 
 
 # Hi There!👋 I'm Priyam Aggarwal <img align="right" alt="Your Image" width="450px"  src="spidertocat.png" />
-**`Digital Designer (Developer/Graphic Designer/Coder)`**
+**`Digital Designer (Developer/Graphics/Coder)`**
 <br>
 
 In my second year, I'm passionate about tech design and coding. Coding is not just a skill but an art, allowing me to express creativity and constantly refine my abilities. It's a dynamic journey where challenges are opportunities for learning and growth in the ever-evolving tech landscape.
