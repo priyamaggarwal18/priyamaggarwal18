@@ -35,6 +35,7 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 
 
 ## <img width="40px"  src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/> Github Stats :
+<div>
 <div style="display: flex; justify-content: flex-start; margin-bottom: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18&theme=dracula" alt="GitHub Trophies" />
@@ -43,8 +44,10 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 <br>
 <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyamaggarwal18&show_icons=true&locale=en&layout=donut&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyamaggarwal18&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyamaggarwal18&theme=algolia" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=priyamaggarwal18&show_icons=true&locale=en&theme=gruvbox" alt="GitHub Stats" />
+   
+</div>
 </div>
 
 ## 💫 My Badges : 
