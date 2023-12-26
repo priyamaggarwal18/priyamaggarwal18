@@ -66,6 +66,7 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 <img width="350px" src="4.png">
 <img width="350px" src="5.png">
 <img width="350px" src="6.png">
+  <img width="350px" src="7.png">
  </p>
 </details>
 
