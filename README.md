@@ -70,6 +70,7 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
   <img width="350px" src="8.png">
 <img width="350px" src="9.png">
   <img width="350px" src="10.png">
+  <img width="350px" src="vastr.png">
  </p>
 </details>
 
