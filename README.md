@@ -6,7 +6,6 @@
 <br>
 
 In my second year, I'm passionate about tech design and coding. Coding is not just a skill but an art, allowing me to express creativity and constantly refine my abilities. It's a dynamic journey where challenges are opportunities for learning and growth in the ever-evolving tech landscape.
-- 🔭 I’m currently working on **Figma**
 - 📫 How to reach me: **priyamagggarwal@gmail.com**
 - ⚡ Fun fact: **I think I am Creative 😁.**
 
