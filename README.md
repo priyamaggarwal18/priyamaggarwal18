@@ -16,21 +16,7 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
  <br><br>
 
 
-## :computer: Languages and Tools :
 
-<p align="left">
-  <img alt="C" width="35px" style="margin-right: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img alt="C++" width="35px" style="margin-right: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-  <img alt="Python" width="35px" style="margin-right: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-  <img alt="HTML" width="35px" style="margin-right: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img alt="CSS" width="35px" style="margin-right: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  <img alt="MySQL" width="35px" style="margin-right: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img alt="JavaScript" width="35px" style="margin-right: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img alt="Linux" width="35px" style="margin-right: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img alt="Adobe Illustrator" width="35px" style="margin-right: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-  <img alt="Canva" width="35px" style="margin-right: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
-  <img alt="Figma" width="35px" style="margin-right: 70px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</p>
 
 
 ## <img width="40px"  src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/> Github Stats :
