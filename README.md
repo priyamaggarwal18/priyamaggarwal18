@@ -40,6 +40,8 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 <img src="https://holopin.me/priyamaggarwal18"/>
 </p>
 
+![Snake animation](https://github.com/priyamaggarwal18/priyamaggarwal18/blob/output/github-contribution-grid-snake.svg)
+
 <details>
 <summary><h2>🎨 My Figma Journey :</h2></summary>
  <p align=left>
