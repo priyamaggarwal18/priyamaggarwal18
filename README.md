@@ -1,7 +1,6 @@
-<a name="top"></a>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=priyamaggarwal18.priyamaggarwal18" />
 
-
-# Hi There!👋 I'm Priyam Aggarwal <img align="right" alt="Your Image" width="450px"  src="spidertocat.png" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Priyam+Aggarwal.+;I+am+a+Full+Stack+Developer.;I+am+a+Coder.)](https://git.io/typing-svg)<img align="right" alt="Your Image" width="450px"  src="spidertocat.png" />
 
 
 In my second year, I'm passionate about tech design and coding. Coding is not just a skill but an art, allowing me to express creativity and constantly refine my abilities. It's a dynamic journey where challenges are opportunities for learning and growth in the ever-evolving tech landscape.
