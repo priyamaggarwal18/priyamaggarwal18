@@ -15,7 +15,7 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
  <br><br>
 
 
-![snake gif](https://github.com/priyamaggarwal18/priyamaggarwal/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/priyamaggarwal18/priyamaggarwal18/blob/output/github-contribution-grid-snake.gif"/>
 
 ## <img width="40px"  src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/> Github Stats :
 <div>
