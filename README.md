@@ -59,5 +59,5 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 
 [↑ Back to Top ↑](#top)
 
-
+![snake gif](https://github.com/priyamaggarwal18/priyamaggarwal18/blob/output/github-contribution-grid-snake.gif)
 
