@@ -1,54 +1,46 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
-name: Generate Snake
-
-# Controls when the action will run. This action runs every 6 hours.
+name: Generate Snake Collaboration Graph
 
 on:
-  schedule:
-      # every 6 hours
-    - cron: "0 */6 * * *"
-
-# This command allows us to run the Action automatically from the Actions tab.
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  generate:
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v3
+      - name: Generate Snake Graph
+        id: snake
+        run: |
+          # Add the code to generate the snake graph here
+          # For example, if you have a Python script to generate the graph:
+          python generate_snake_graph.py
 
-    # Generates the snake  
-      - uses: Platane/snk@master
-        id: snake-gif
+          # Example to set an output value (deprecated)
+          # echo "::set-output name=graph-path::path/to/snake/graph.png"
+          
+          # Using environment file to set the output value
+          echo "GRAPH_PATH=path/to/snake/graph.png" >> $GITHUB_ENV
+
+      - name: Commit and push Snake Graph
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -A
+          git commit -m "Update Snake Graph"
+          git push
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
-          github_user_name: priyamaggarwal18
-          # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          target_branch: gh-pages  # Adjust to your GitHub Pages branch if different
+          build_dir: path/to/build  # Directory to deploy
 
-     # show the status of the build. Makes it easier for debugging (if there's any issues).
-      - run: git status
+      - name: Clean up
+        run: rm -rf path/to/snake/graph.png
 
-      # Push the changes
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          # the output branch we mentioned above
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
