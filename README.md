@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Priyam+Aggarwal.+;I+am+a+Developer.;I+am+a+Coder.)](https://git.io/typing-svg)<img align="right" alt="Your Image" width="350px"  src="ocatcatluffy.svg" />
 
 
-In my second year, I'm passionate about tech design and coding. Coding is not just a skill but an art, allowing me to express creativity and constantly refine my abilities. It's a dynamic journey where challenges are opportunities for learning and growth in the ever-evolving tech landscape.
+In my third year, my passion for tech design and coding continues to grow. Coding is an art that allows for creative expression and constant refinement of skills. I'm currently focused on full stack development with the MERN stack, which helps in building dynamic web applications. Additionally, I'm enhancing my problem-solving abilities through data structures and algorithms using C++, sharpening my analytical thinking. This dynamic journey turns challenges into opportunities for learning and growth in the ever-evolving tech landscape.
 - 📫 How to reach me: **priyamagggarwal@gmail.com**
 - ⚡ Fun fact: **I think I am Creative 😁.**
  <br><br><br>
@@ -50,7 +50,7 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 </div>
 </div>
 
-## 💫 My Badges : 
+<h2 >💫 My Badges 💫</h2>
 <p>
 <img height="33px" src="open.svg"/>
 <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg"/>
@@ -59,7 +59,7 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
  
 
 <details>
-<summary><h2>🎨 My Figma Journey :</h2></summary>
+<summary><h2>🎨 My Figma Journey 🎨</h2></summary>
  <p align=left>
 <img width="350px" src="2.png">
 <img width="350px" src="3.png">
