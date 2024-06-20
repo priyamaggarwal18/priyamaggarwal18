@@ -56,8 +56,6 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg"/>
 <img src="https://holopin.me/priyamaggarwal18"/>
 </p>
-
-![Snake animation](https://github.com/priyamaggarwal18/priyamaggarwal18/blob/output/github-contribution-grid-snake.svg)
  
 
 <details>
