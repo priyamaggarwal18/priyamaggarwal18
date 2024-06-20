@@ -28,7 +28,7 @@ In my second year, I'm passionate about tech design and coding. Coding is not ju
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div >
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs,postman,python,javascript,express,firebase,mongodb,c,cpp,bash,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs,postman,python,javascript,express,firebase,mongodb,c,cpp,bash,mysql,flask,scikitlearn,docker" />
 
 </div>
 
