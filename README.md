@@ -6,14 +6,31 @@
 In my second year, I'm passionate about tech design and coding. Coding is not just a skill but an art, allowing me to express creativity and constantly refine my abilities. It's a dynamic journey where challenges are opportunities for learning and growth in the ever-evolving tech landscape.
 - 📫 How to reach me: **priyamagggarwal@gmail.com**
 - ⚡ Fun fact: **I think I am Creative 😁.**
+ <br><br><br>
 
-#### connect with me 🤝:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyamaggarwal)
-[![Twitter](https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/PriyamAgga61169)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/priyamaggarwal18/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Priyam08/)
+<h2 >🤝 Connect with me 🤝</h2>
+<br/>
+<a href="https://www.linkedin.com/in/priyamaggarwal" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://twitter.com/PriyamAgga61169" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+</a>
+<a href="https://www.instagram.com/priyamaggarwal18/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<a href="https://leetcode.com/Priyam08/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+</a>
+
  <br><br>
 
+<h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div >
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs,postman,python,javascript,express,firebase,mongodb,c,cpp,bash,mysql,flask" />
+
+</div>
 
 <img src="https://github.com/priyamaggarwal18/priyamaggarwal18/blob/output/github-contribution-grid-snake.gif"/>
 
