@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: "0 0 * * *"  # Schedule to run daily at midnight
   workflow_dispatch:
 
 jobs:
@@ -15,32 +17,24 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Graph
-        id: snake
-        run: |
-          # Add the code to generate the snake graph here
-          # For example, if you have a Python script to generate the graph:
-          python generate_snake_graph.py
-
-          # Example to set an output value (deprecated)
-          # echo "::set-output name=graph-path::path/to/snake/graph.png"
-          
-          # Using environment file to set the output value
-          echo "GRAPH_PATH=path/to/snake/graph.png" >> $GITHUB_ENV
+        uses: Platane/snk@v2
+        with:
+          github_user_name: priyamaggarwal18
+          output: dist/snake.svg
 
       - name: Commit and push Snake Graph
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add -A
+          git add dist/snake.svg
           git commit -m "Update Snake Graph"
           git push
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: gh-pages  # Adjust to your GitHub Pages branch if different
-          build_dir: path/to/build  # Directory to deploy
+          target_branch: gh-pages
+          build_dir: dist
 
       - name: Clean up
-        run: rm -rf path/to/snake/graph.png
-
+        run: rm -rf dist/snake.svg
