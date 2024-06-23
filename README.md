@@ -29,7 +29,7 @@ In my third year, my passion for tech design and coding continues to grow. Codin
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div >
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs,postman,python,javascript,express,firebase,mongodb,c,cpp,bash,mysql,flask,scikitlearn,docker" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs,postman,python,javascript,firebase,mongodb,c,cpp,bash,mysql,flask,scikitlearn" />
 
 </div>
 
