@@ -77,6 +77,4 @@ In my third year, my passion for tech design and coding continues to grow. Codin
   
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Priyam08?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
-</p>
-[↑ Back to Top ↑](#top)
 
