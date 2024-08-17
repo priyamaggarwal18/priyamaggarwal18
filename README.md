@@ -58,23 +58,25 @@ In my third year, my passion for tech design and coding continues to grow. Codin
 <img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg"/>
 <img src="https://holopin.me/priyamaggarwal18"/>
 </p>
- 
 
-<details>
-<summary><h2>🎨 My Figma Journey 🎨</h2></summary>
- <p align=left>
-<img width="350px" src="2.png">
-<img width="350px" src="3.png">
-<img width="350px" src="4.png">
-<img width="350px" src="5.png">
-<img width="350px" src="6.png">
-  <img width="350px" src="7.png">
-  <img width="350px" src="8.png">
-<img width="350px" src="9.png">
-  <img width="350px" src="10.png">
-  <img width="350px" src="vastr.png">
- </p>
-</details>
+<h2>LeetCode Stats</h2>
+<div align="center"> 
 
+<h2 align="center">Leetcode Info<h2>
+
+
+  
+<p align="center">
+  <a href="https://leetcode.com/Priyam08/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="jyot" height="100" width="100" /></a>
+<a href="https://leetcode.com/Priyam08/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/Priyam08/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/Priyam08/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="100" width="100" /></a>
+  <a href="https://leetcode.com/Priyam08/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="100" width="100" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/Priyam08?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+</p>
 [↑ Back to Top ↑](#top)
 
