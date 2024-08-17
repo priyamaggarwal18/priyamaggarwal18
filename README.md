@@ -59,13 +59,9 @@ In my third year, my passion for tech design and coding continues to grow. Codin
 <img src="https://holopin.me/priyamaggarwal18"/>
 </p>
 
-<h2>LeetCode Stats</h2>
+
+<h2>📈 LeetCode Info 📈</h2>
 <div align="center"> 
-
-<h2 align="center">Leetcode Info<h2>
-
-
-  
 <p align="center">
   <a href="https://leetcode.com/Priyam08/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-04.gif" alt="jyot" height="100" width="100" /></a>
 <a href="https://leetcode.com/Priyam08/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-05.gif" alt="jyot" height="100" width="100" /></a>
