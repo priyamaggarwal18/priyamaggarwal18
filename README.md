@@ -26,18 +26,17 @@ In my third year, my passion for tech design and coding continues to grow. Codin
 
  <br><br>
 
+
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs" />
-    <img src="https://skillicons.dev/icons?i=postman,python,javascript,firebase,mongodb,c,cpp,bash,flask,scikitlearn"/>
-
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs,postman,python,javascript,firebase,mongodb,c,cpp,bash,flask,scikitlearn" />
 </div>
 
-<img src="https://github.com/priyamaggarwal18/priyamaggarwal18/blob/output/github-contribution-grid-snake.gif"/>
+<br>
 
 ## <img width="40px"  src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/> Github Stats :  <img width="40px"  src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/>
 <div>
+ <img src="contributions.png"/>
 <div style="display: flex; justify-content: flex-start; margin-bottom: 20px;">
   <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 10px;">
     <img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18&theme=dracula" alt="GitHub Trophies" />
@@ -51,6 +50,7 @@ In my third year, my passion for tech design and coding continues to grow. Codin
    
 </div>
 </div>
+
 
 <h2 >💫 My Badges 💫</h2>
 <p>
