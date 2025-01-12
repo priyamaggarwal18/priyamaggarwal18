@@ -53,7 +53,7 @@ In my third year, my passion for tech design and coding continues to grow. Codin
   </tr>
   <tr>
     <td colspan="2" align="center">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyamaggarwal18&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20graph&line=00aaff&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyamaggarwal18&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
     </td>
   </tr>
 </table>
