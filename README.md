@@ -11,7 +11,7 @@ In my third year, my passion for tech design and coding continues to grow. Codin
 
 <h2 >🤝 Connect with me 🤝</h2>
 <br/>
-<a href="https://priyamaggarwal18.github.io/Portfolio2.0/" target="_blank" style="text-decoration: none;">
+<a href="https://itspriyam.vercel.app/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>&nbsp&nbsp;
   <a href="https://www.linkedin.com/in/priyamaggarwal" target="_blank" style="text-decoration: none;">
