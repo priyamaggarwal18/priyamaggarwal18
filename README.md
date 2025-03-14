@@ -30,6 +30,11 @@ In my third year, my passion for tech design and coding continues to grow. Codin
 
 ## <img width="40px"  src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/> Github Stats :  <img width="40px"  src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/>
 <img src="contributions.png"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyamaggarwal18/priyamaggarwal18/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyamaggarwal18/priyamaggarwal18/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/priyamaggarwal18/priyamaggarwal18/output/github-snake.svg" />
+</picture>
 <table>
   <tr>
     <td colspan="2" align="center">
