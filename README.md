@@ -1,13 +1,13 @@
-<br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Priyam+Aggarwal.+;I+am+a+Developer.;I+am+a+Coder.)](https://git.io/typing-svg)<img align="right" alt="Your Image" width="350px"  src="ocatcatluffy.svg" >
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Priyam+Aggarwal.+;I+am+a+Developer.;I+am+a+Coder.)](https://git.io/typing-svg)<img align="right" alt="Your Image" width="500px"  src="spidertocat.png" >
 
 In my third year, my passion for tech design and coding continues to grow. Coding is an art that allows for creative expression and constant refinement of skills. I'm currently focused on full stack development with the MERN stack, which helps in building dynamic web applications. Additionally, I'm enhancing my problem-solving abilities through data structures and algorithms using C++, sharpening my analytical thinking. This dynamic journey turns challenges into opportunities for learning and growth in the ever-evolving tech landscape.
 
 ### - 📫 Email: **priyamagggarwal@gmail.com**
 ### - ⚡ Fun fact: **I think I am Creative 😁.**
- <br><br><br>
+
+ <br><br><br><br><br>
 
 <h2 >🤝 Connect with me 🤝</h2>
 <br/>
@@ -23,7 +23,7 @@ In my third year, my passion for tech design and coding continues to grow. Codin
 
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-    <img src="https://skillicons.dev/icons?i=react,next,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs,postman,python,javascript,firebase,mongodb,c,cpp,bash,flask,scikitlearn" />
+    <img src="https://skillicons.dev/icons?i=react,next,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs,postman,python,javascript,firebase,mongodb,c,cpp,java,bash,flask,scikitlearn" />
 </div>
 
 <br>
