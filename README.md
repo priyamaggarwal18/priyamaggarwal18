@@ -44,7 +44,7 @@ Driven third-year tech explorer passionate about leveraging technology for impac
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18&theme=dracula" alt="GitHub Trophies" />
+        <img src="https://github-profile-trophy.vercel.app/?username=priyamaggarwal18&theme=dracula&title=-Reviews" alt="GitHub Trophies" />
       </a>
     </td>
   </tr>
