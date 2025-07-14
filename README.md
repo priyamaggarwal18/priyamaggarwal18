@@ -22,7 +22,7 @@ Driven tech explorer passionate about leveraging technology for impactful innova
 
 <h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-    <img src="https://skillicons.dev/icons?i=react,vercel,bootstrap,html,css,vscode,github,figma,tailwind,git,nodejs,postman,python,javascript,firebase,mongodb,c,cpp,java,bash,flask,scikitlearn" />
+<img src="https://skillicons.dev/icons?i=javascript,python,java,c,cpp,bash,react,redux,html,css,bootstrap,tailwind,nodejs,express,spring,flask,graphql,mongodb,postgresql,sqlite,firebase,git,github,npm,maven,postman,vercel,vscode,eclipse,idea,scikitlearn,hibernate,jest,figma"/>
 </div>
 
 <br>
