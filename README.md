@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Priyam+Aggarwal.)](https://git.io/typing-svg)<img align="right" alt="Your Image" width="450px"  src="spidertocat.png" >
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Priyam+Aggarwal.)](https://git.io/typing-svg)<img align="right" alt="Your Image" width="400px"  src="spidertocat.png" >
 
 I am a driven tech explorer passionate about continuous learning and skill mastery, especially in Data Structures and Algorithms to solve complex problems. I enjoy coding, debugging, and optimizing solutions while focusing on creating intuitive and visually appealing tech designs. Always eager for new challenges, I am currently expanding my knowledge in cybersecurity and delving into Spring Boot development to broaden my expertise.
 ### - 📫 Email: **aggarwalpriyam08@gmail.com**
