@@ -63,9 +63,9 @@ Driven tech explorer passionate about leveraging technology for impactful innova
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyamaggarwal18/priyamaggarwal18/main/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyamaggarwal18/priyamaggarwal18/main/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/priyamaggarwal18/priyamaggarwal18/main/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyamaggarwal18/priyamaggarwal18/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyamaggarwal18/priyamaggarwal18/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/priyamaggarwal18/priyamaggarwal18/output/pacman-contribution-graph.svg">
 </picture>
 
 <h2 >💫 My Badges 💫</h2>
