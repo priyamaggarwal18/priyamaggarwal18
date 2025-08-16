@@ -2,7 +2,7 @@ name: generate pacman game
 
 on:
   schedule:
-    - cron: "0 * * * *"  # every hour, change as needed
+    - cron: "0 0 * * *"  # every hour, change as needed
   workflow_dispatch:
   push:
     branches:
@@ -10,8 +10,6 @@ on:
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
