@@ -69,8 +69,6 @@ I am a driven tech explorer passionate about continuous learning and skill maste
 
 <h2 >💫 My Badges 💫</h2>
 <p>
-<img height="33px" src="open.svg"/>
-<img height="30px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Hacktoberfest2023/hacktoberfest20232.svg"/>
 <img src="https://holopin.me/priyamaggarwal18"/>
 </p>
 
